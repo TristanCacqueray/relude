@@ -83,7 +83,7 @@ This is neither a tutorial on _Haskell_ nor tutorial on each function contained
 in `relude`. For detailed documentation of every function together with examples
 and usage, see [_Haddock documentation_](http://hackage.haskell.org/package/relude).
 
-## When to use an alternative prelude? [↑](#structure-of-this-tutorial)
+## When to use an alternative prelude?[ ↑](#structure-of-this-tutorial)
 
 The module with the name `Prelude` is a module imported by default in every Haskell
 source file of your project. If you want to use some data types or functions
